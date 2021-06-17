@@ -1,0 +1,16 @@
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SuperBank.exe
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SuperBank.deps.json
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SuperBank.runtimeconfig.json
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SuperBank.runtimeconfig.dev.json
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SuperBank.dll
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\SuperBank.pdb
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\BankStuffLibrary.dll
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\BankStuffLibrary.pdb
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.csproj.AssemblyReference.cache
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.AssemblyInfoInputs.cache
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.AssemblyInfo.cs
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.csproj.CopyComplete
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.dll
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.pdb
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\SuperBank.genruntimeconfig.cache

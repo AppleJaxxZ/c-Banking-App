@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SuperBank/1.0.0": {
+        "dependencies": {
+          "BankStuffLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SuperBank.dll": {}
+        }
+      },
+      "BankStuffLibrary/1.0.0": {
+        "runtime": {
+          "BankStuffLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankStuffLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

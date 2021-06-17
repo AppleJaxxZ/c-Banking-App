@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SuperBank
+namespace BankStuffLibrary
+
 
 {
     class Transaction

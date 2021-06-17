@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "BankStuffLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/BankStuffLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BankStuffLibrary.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "BankStuffLibrary/1.0.0": {
-      "type": "project",
-      "path": "../BankStuffLibrary/BankStuffLibrary.csproj",
-      "msbuildProject": "../BankStuffLibrary/BankStuffLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "BankStuffLibrary >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\ConsoleApp2\\SuperBank.csproj",
-      "projectName": "SuperBank",
-      "projectPath": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\ConsoleApp2\\SuperBank.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\BankStuffLibrary\\BankStuffLibrary.csproj",
+      "projectName": "BankStuffLibrary",
+      "projectPath": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\BankStuffLibrary\\BankStuffLibrary.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\BankStuffLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\BankStuffLibrary\\BankStuffLibrary.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\cSharpProjects\\ConsoleApp2\\BankStuffLibrary\\BankStuffLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

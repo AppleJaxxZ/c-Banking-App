@@ -1,0 +1,9 @@
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\bin\Debug\netcoreapp3.1\BankStuffLibrary.deps.json
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\bin\Debug\netcoreapp3.1\BankStuffLibrary.dll
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\bin\Debug\netcoreapp3.1\BankStuffLibrary.pdb
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\obj\Debug\netcoreapp3.1\BankStuffLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\obj\Debug\netcoreapp3.1\BankStuffLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\obj\Debug\netcoreapp3.1\BankStuffLibrary.AssemblyInfo.cs
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\obj\Debug\netcoreapp3.1\BankStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\obj\Debug\netcoreapp3.1\BankStuffLibrary.dll
+C:\Users\user\Documents\cSharpProjects\ConsoleApp2\BankStuffLibrary\obj\Debug\netcoreapp3.1\BankStuffLibrary.pdb
